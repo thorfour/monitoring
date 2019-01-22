@@ -1,0 +1,3 @@
+passwords
+terraform.tfstate*
+.terraform* 

@@ -1,0 +1,8 @@
+scrape_configs:
+    - job_name: "${job_name}"
+      scrape_interval: 15s
+      honor_labels: false
+      metrics_path: '/metrics'
+
+      static_configs:
+          - targets: ['${scrape}']
