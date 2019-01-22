@@ -4,7 +4,7 @@ Terraform packages to deploy monitoring software in the cloud
 
 ## Monitoring Packages
 
-### [Prometheus](prometheus.io)
+### [Prometheus](https://prometheus.io)
 
 `make prometheus`
 
